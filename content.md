@@ -41,7 +41,7 @@ def first_uniq_char(string)
   # Your solution goes here
 end
 ```
-{: .repl #first_unique_character title="First Unique Character in a String" readonly_lines="[5]"}
+{: .repl #first_unique_character title="First Unique Character in a String" readonly_lines="[1,2,3,4,5]"}
 
 ```ruby
 describe "First Unique Character in a String" do
