@@ -33,7 +33,7 @@ In an interview, clearly explaining your thought process is vital. Start by cons
 ```ruby
 string = [
   "interviewprep",
-  "loveprogramming",
+  "liveloveprogramming",
   "abcdefghijklmnopqrstuvwxyz",
 ].sample
 
