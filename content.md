@@ -52,7 +52,7 @@ describe "First Unique Character in a String" do
   end
 end
 ```
-{: .repl-test #first_unique_character_test_1 for="first_unique_character" title="First Unique Character returns 0 for 'interviewprep'" points="1"}
+{: .repl-test #first_unique_character_test_1 for="first_unique_character" title="First Unique Character returns 1 for 'interviewprep'" points="1"}
 
 ```ruby
 describe "First Unique Character in a String" do
@@ -61,7 +61,7 @@ describe "First Unique Character in a String" do
   end
 end
 ```
-{: .repl-test #first_unique_character_test_2 for="first_unique_character" title="First Unique Character returns 2 for 'iliveilaughicode'" points="1"}
+{: .repl-test #first_unique_character_test_2 for="first_unique_character" title="First Unique Character returns 3 for 'iliveilaughicode'" points="1"}
 
 ```ruby
 describe "First Unique Character in a String" do
