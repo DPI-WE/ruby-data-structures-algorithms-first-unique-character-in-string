@@ -37,9 +37,11 @@ string = [
   "abcdefghijklmnopqrstuvwxyz",
 ].sample
 
-def first_uniq_char(string)
+def first_uniq_char(s)
 
 end
+
+puts first_uniq_char(string)
 ```
 {: .repl #first_unique_character title="First Unique Character in a String" readonly_lines="[1,2,3,4,5]"}
 
