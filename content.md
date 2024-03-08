@@ -7,8 +7,6 @@ Write a program that:
 - returns the index of this character
 - returns -1 if every character repeats
 
-Example: Given the string "discovery", the first non-repeating character is "d", and its index is 0.
-
 ## Understand the Problem
 Let's warm up by understanding how to approach identifying unique characters.
 
