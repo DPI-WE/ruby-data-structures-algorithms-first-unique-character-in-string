@@ -26,12 +26,7 @@ Let's warm up by understanding how to approach identifying unique characters.
 Remember, the objective is not just to find a non-repeating character but to identify the *first* non-repeating character based on its appearance in the string.
 
 ## Think Aloud
-In an interview, clearly explaining your thought process is vital. Start by considering how you could track the occurrence of each character. 
-
-Pseudocode can be helpful here:
-1. Iterate through the string, counting the occurrences of each character.
-2. Iterate through the string again, this time checking the count of each character.
-3. Return the index of the first character with a count of 1.
+In an interview, clearly explaining your thought process is vital. Start by considering how you could track the number of occurrences for each character. Pseudocode can be helpful here.
 
 ## Test your code
 
